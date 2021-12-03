@@ -4,4 +4,9 @@ bitrix24
 timely modificacion
 zoho one
 Prueba insercion
+<<<<<<< HEAD
 Otra prueba de insercion. Agregaremos mas texto.
+=======
+Otra prueba de insercion. Agregaremos mas texto.
+Vamos a agregar mas texto.
+>>>>>>> cabecera
